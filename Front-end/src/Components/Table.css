@@ -1,0 +1,41 @@
+.MuiTablePagination-selectLabel.css-pdct74-MuiTablePagination-selectLabel{
+    color: white;
+}
+
+.MuiTablePagination-select.MuiSelect-select.MuiSelect-standard.MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input{
+    color: white;
+}
+
+.MuiTablePagination-select.MuiSelect-select.MuiSelect-standard.MuiInputBase-input.css-194a1fa-MuiSelect-select-MuiInputBase-input{
+    color: white;
+}
+
+.MuiTablePagination-displayedRows.css-levciy-MuiTablePagination-displayedRows{
+    color: white;
+}
+
+.MuiTablePagination-actions{
+    color: white;
+}
+
+.nav{
+    background-color: #095f90;
+  }
+  input {
+    width: 450px;
+    padding: 0px 15px;
+  }
+  
+  input,
+  input::-webkit-input-placeholder {
+    font-size: 15px;
+    line-height: 4;
+    color:rgb(0, 123, 255);
+  }
+
+.btnplaylist {
+    background-image: url("Reload.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: 62px 34px;
+  }

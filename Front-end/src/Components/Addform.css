@@ -1,0 +1,23 @@
+.inputRounded{
+    border-radius: 9px;
+    width:210px;
+    height: 55px;
+    margin-right: 10px;
+    background-color:white;
+    font-size: 15px;
+    color:black;
+ }
+
+ .MuiOutlinedInput-root.MuiInputBase-root.MuiInputBase-colorPrimary.MuiInputBase-formControl.MuiInputBase-adornedEnd.css-o9k5xi-MuiInputBase-root-MuiOutlinedInput-root
+ {
+    border-radius: 9px;
+    width: 210px;
+    height: 50px;
+    font-size: 15px;
+    background-color:white;
+   
+ }
+
+.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiInputLabel-outlined.MuiFormLabel-root.MuiFormLabel-colorPrimary.MuiFormLabel-filled.css-1sumxir-MuiFormLabel-root-MuiInputLabel-root{
+    margin-top: 10px;
+ }
